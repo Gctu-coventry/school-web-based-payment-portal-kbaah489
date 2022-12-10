@@ -1,0 +1,7 @@
+>> LOGIN DETAILS <<
+Username: admin
+Password: admin
+
+Database file location: School_Fees_System/database/paysystem.sql
+Database Name: paysystem
+
